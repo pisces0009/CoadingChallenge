@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="AppleCodeTest" >
+  <test name="regression"   >
+    <packages>
+      <package name="test.PurchaseTest" />
+   </packages>
+ </test>
+</suite>
